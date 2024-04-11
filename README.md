@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="header" align="center">
 
-<!--
-**exterpolation/exterpolation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my Profile!<br><br>
 
-Here are some ideas to get you started:
+### Contributions<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=exterpolation&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)]
+<img src="https://profile-counter.glitch.me/exterpolation/count.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### Languages:<br><br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exterpolation&layout=compact&theme=transparent&hide_border=true&border_radius=15)]
+
+[![My Skills](https://skillicons.dev/icons?i=php,html,javascript,typescript,nodejs,jquery,vue,angular,react,bash,java,rust,c,cpp,python)]<br>
+[![My Skills 2](https://skillicons.dev/icons?i=lua,linux,windows,powershell,swift,markdown)](https://skillicons.dev)<br>
+  
+ ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=wgupz8x7rohqanezzao2g3cxw)
+</div>
