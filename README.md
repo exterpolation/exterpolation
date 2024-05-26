@@ -14,5 +14,6 @@
 [![My Skills](https://skillicons.dev/icons?i=php,html,javascript,typescript,nodejs,jquery,vue,angular,react,swift,java,rust,c,cpp,python)](https://skillicons.dev)<br>
 [![My Skills 2](https://skillicons.dev/icons?i=lua,linux,windows,bash,powershell,markdown)](https://skillicons.dev)<br><hr>
   
- ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=wgupz8x7rohqanezzao2g3cxw)
+[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=wgupz8x7rohqanezzao2g3cxw)<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/659022591071223819)](https://discord.com/users/659022591071223819)
 </div>
