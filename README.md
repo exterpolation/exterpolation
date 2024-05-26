@@ -15,5 +15,5 @@
 [![My Skills 2](https://skillicons.dev/icons?i=lua,linux,windows,bash,powershell,markdown)](https://skillicons.dev)<br><hr>
   
 [![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=wgupz8x7rohqanezzao2g3cxw)<br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/659022591071223819)](https://discord.com/users/659022591071223819)
+![Discord Presence](https://lanyard.cnrad.dev/api/659022591071223819)](https://discord.com/users/659022591071223819)
 </div>
