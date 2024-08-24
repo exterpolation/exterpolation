@@ -2,14 +2,14 @@
 
 <div id="header" align="center">
 
-# Welcome to my Profile!<br><br>
+# exterpolation(@ripbypassed)<br><br>
 
 ### Contributions<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=exterpolation&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
 
   #
   
-### Languages:<br><br>
+### Languages:<br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exterpolation&layout=compact&theme=transparent&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
